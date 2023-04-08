@@ -1,0 +1,25 @@
+{
+  "name": "restap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeTutorialApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogensogens/RESTAP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogensogens/RESTAP/issues"
+  },
+  "homepage": "https://github.com/ogensogens/RESTAP#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
