@@ -1,7 +1,7 @@
 const express = require('express')
 const bodyParser = require('body-parser');
 const nodeTutorialApp = express();
-const port = 3500
+const port = 3600
 
 // Middleware
 nodeTutorialApp.use(bodyParser.json());
